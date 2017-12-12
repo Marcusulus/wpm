@@ -1,0 +1,4 @@
+website struktur aus order struktur ableiteb
+website struktur über datei ableiten
+nach login übersicht letzte änderungen also bilder hinzu, status geändert etc verlinkung
+farbpalette aus logo farben ermiteln
